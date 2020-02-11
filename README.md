@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Website
 
-You can use the [editor on GitHub](https://github.com/nick11498/nicholas-nguyen.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My Name is Nicholas Nguyen. I'm currrently a UTA student in my Junior Year. I am studying Computer Science and expected to graduate in May 2021!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
